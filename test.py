@@ -192,4 +192,4 @@ async def strict_mode(ctx, mode: str):
         await ctx.send("Invalid option. Use `!strictmode on` or `!strictmode off`.")
 
 # Run the bot
-bot.run("MTMwNDY3NDI2OTQ5MzQ2NTEyOA.GivoG9.9eOL9RlNWHiHkjDUJl2wp-Dh2VeAfHPGvcCW44")
+bot.run("") #enter your bot token and run the file
