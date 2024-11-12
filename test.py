@@ -64,9 +64,7 @@ async def show_roles(ctx):
 async def social_links(ctx):
     socials = """
     **Follow us on:**
-    - Twitter: [twitter link]
-    - Instagram: [instagram link]
-    - GitHub: [github link]
+    - Instagram: "https://www.instagram.com/bytexync"
     """
     await ctx.send(socials)
 
